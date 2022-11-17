@@ -46,3 +46,7 @@ extra:
   recipe-maintainers:
     - marcelotrevisani
     - dhirschfeld
+  only_lint:
+    - missing_source
+  anaconda:
+    purpose: Top 5000 package
