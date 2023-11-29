@@ -1,0 +1,6 @@
+channels:
+  - https://staging.continuum.io/prefect/fs/msal-feedstock/pr3/d251615
+  - https://staging.continuum.io/prefect/fs/msal_extensions-feedstock/pr2/1d02e5b
+
+upload_channels:
+  - sfe1ed40
